@@ -1,6 +1,4 @@
 <div>
-    <img src="https://i.imgur.com/JxC8bN8.gif">
-    <p>
 <div>
 <div>
     <p>
@@ -32,5 +30,5 @@
     <p>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Natanalpe/Natanalpe/blob/output/github-contribution-grid-snake.svg)
 <div>
