@@ -20,7 +20,8 @@
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     
-![Snake animation](https://github.com/Natanalpe/Natanalpe/blob/output/github-contribution-grid-snake.svg)
-    
+
 </div>
+        
+![snake gif](https://github.com/Natanalpe/Natanalpe/blob/output/github-contribution-grid-snake.gif)
 
