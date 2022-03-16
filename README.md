@@ -1,6 +1,5 @@
 <div>
         <a href="mailto:natan.altomar14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-        <a href="https://discord.gg/BaDTsbpvST"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
         <a href="https://www.linkedin.com/in/natanalpe14/" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </div>
 
