@@ -11,4 +11,5 @@
 </div>
 <hr>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=eternalagony1616&width=895&count=2">
+
 ![Snake animation](https://github.com/Natanalpe/Natanalpe/blob/output/github-contribution-grid-snake.svg)
