@@ -9,7 +9,7 @@
 ![](./imgs/banner/banner-dark.png)
 
 
-![](./imgs//square/dark-square.png)[![GitHub Streak](https://streak-stats.demolab.com?user=natanalpe&theme=midnight-purple&hide_border=true&border_radius=3&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=0D1117)]()![](./imgs//square/dark-square.png)
+![](./imgs//square/dark-square.png)[![GitHub Streak](https://streak-stats.demolab.com?user=natanalpe&theme=midnight-purple&hide_border=true&border_radius=3&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=0D1117)]()
 
 - - -
 
