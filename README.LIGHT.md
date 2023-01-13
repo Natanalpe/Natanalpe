@@ -8,9 +8,7 @@
 
 ![](./imgs/banner/banner-light.png)
 
-![](https://github-readme-stats.vercel.app/api?username=Natanalpe&show_icons=true&text_color=ffffff&bg_color=20,4500fd,4500fd,6800b0,6800b0&title_color=ffffff&border_color=0C0032&locale=pt-br&border_radius=15&include_all_commits=true&count_private=true&line_height=20&width=100&hide_rank=true&card_width=410&custom_title=Natan%20Altomar's%20estatísticas)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Natanalpe&text_color=ffffff&bg_color=20,6800b0,6800b0,6800b0,4500fd,4500fd&title_color=ffffff&border_color=0C0032&locale=pt-br&layout=compact&border_radius=15&card_width=410)
+[![GitHub Streak](https://streak-stats.demolab.com?user=natanalpe&theme=midnight-purple&hide_border=true&border_radius=3&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=FFFFFF)]()
 
 - - -
 
