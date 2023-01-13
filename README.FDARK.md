@@ -8,7 +8,7 @@
 
 ![](./imgs/banner/banner-fdark.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=natanalpe&theme=midnight-purple&hide_border=true&border_radius=3&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=0A0C10)]()
+![](./imgs/square/fdark-square.png)[![GitHub Streak](https://streak-stats.demolab.com?user=natanalpe&theme=midnight-purple&hide_border=true&border_radius=3&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=0A0C10)]()![](./imgs/square/fdark-square.png)
 
 - - -
 
