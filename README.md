@@ -12,3 +12,4 @@
 ![Snake animation](https://github.com/Natanalpe/Natanalpe/blob/output/github-contribution-grid-snake.svg)
 
 ![](./imgs/waves/waves.png)
+
