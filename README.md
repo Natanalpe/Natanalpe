@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
     </a>
 </div>
+
 ###
 
 <h3 align="left">🧠  Stack</h3>
